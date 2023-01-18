@@ -20,3 +20,4 @@ public class SecondLargest {
 		System.out.print("The Second Largest Number: " + a[num - 2]);
     }
 }
+ 
