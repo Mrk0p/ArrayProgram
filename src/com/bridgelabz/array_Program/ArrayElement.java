@@ -4,7 +4,7 @@ public class ArrayElement {
 
     public static void main(String[] args) {
 
-        int[] array = new int[] { 2, 3, 5, 7, 8 };
+        int[] array = new int[] { 2, 3, 5, 7,8 };
         System.out.println("Element of given array: ");
 
 
