@@ -21,7 +21,7 @@ public class AscendingOrder {
                 }
             }
         }
-        System.out.println("");
+        System.out.println(" ");
 
         System.out.println("Elements of array sorted in ascending order: ");
         for (int i = 0; i < array.length; i++) {
