@@ -9,7 +9,7 @@ public class EvenPosition {
         System.out.println("Element of given array present on even position:");
 
         for (int i = 1; i < arr.length; i = i + 2) {
-            System.out.println(arr[i]);
+            System.out.println(arr[i]); 
 
         }
 
